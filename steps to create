@@ -1,0 +1,17 @@
+Game Logic:
+Computer picks a random number between 1 and 100
+Player types a guess
+The game says: “Too high”, “Too low”, or “Correct!”
+Count number of attempts
+
+Step-by-Step Setup
+📁 Folder Structure
+Create a folder called number-guess-game, then create these files:
+number-guess-game/
+├── index.html
+├── style.css
+└── script.js
+
+Open index.html
+Right-click → Open with Live Server, or double-click it in File Explorer
+Start guessing!
